@@ -1,0 +1,37 @@
+[
+    {
+      "titulo": "Inception",
+      "descripcion": "Un ladrón que accede a los sueños de las personas para robar sus secretos más profundos debe realizar la tarea más compleja de todas: implantar una idea en la mente de una persona.",
+      "imagen": "https://ejemplo.com/inception.jpg",
+      "año_estreno": 2010,
+      "puntuacion": 8.8
+    },
+    {
+      "titulo": "The Matrix",
+      "descripcion": "Un hacker descubre que el mundo en el que vive es una simulación controlada por máquinas, y se une a la resistencia para luchar por la libertad de la humanidad.",
+      "imagen": "https://ejemplo.com/matrix.jpg",
+      "año_estreno": 1999,
+      "puntuacion": 8.7
+    },
+    {
+      "titulo": "Interstellar",
+      "descripcion": "Un grupo de astronautas se embarca en una misión para encontrar un nuevo hogar para la humanidad, viajando a través de agujeros de gusano en busca de planetas habitables.",
+      "imagen": "https://ejemplo.com/interstellar.jpg",
+      "año_estreno": 2014,
+      "puntuacion": 8.6
+    },
+    {
+      "titulo": "The Godfather",
+      "descripcion": "La saga épica de una familia mafiosa italoamericana, liderada por el patriarca Don Vito Corleone, mientras lucha por el poder y la supervivencia en el mundo del crimen organizado.",
+      "imagen": "https://ejemplo.com/godfather.jpg",
+      "año_estreno": 1972,
+      "puntuacion": 9.2
+    },
+    {
+      "titulo": "Pulp Fiction",
+      "descripcion": "Varias historias entrelazadas que siguen a personajes del submundo criminal de Los Ángeles, presentadas de manera no lineal y con diálogos ingeniosos.",
+      "imagen": "https://ejemplo.com/pulpfiction.jpg",
+      "año_estreno": 1994,
+      "puntuacion": 8.9
+    }
+  ]
